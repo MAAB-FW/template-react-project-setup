@@ -5,6 +5,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 Installed packages:
 
 -   tailwind css(with config)
+-   shadcn(with config)
 -   react router dom
 -   react hot toast
 -   moment js
